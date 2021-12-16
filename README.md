@@ -12,6 +12,7 @@ Demo: https://colab.research.google.com/drive/18wupYerwiNJ77syxBv8ZZmkkj9pGjblW?
   - 可以指定要爬標題有哪些關鍵字的資料 `e.g. title_keywords = ['房貸', '房屋']`
 
 - 身為使用者，在 Preview crawled data
-  - 可以預覽爬下的資料 
+  - 可以預覽爬下的資料
+  <img src="/preview_crawled_data.png">
 
 ## 如何使用
