@@ -15,4 +15,8 @@ Demo: https://colab.research.google.com/drive/18wupYerwiNJ77syxBv8ZZmkkj9pGjblW?
   - 可以預覽爬下的資料
   <img src="/preview_crawled_data.png">
 
-## 如何使用
+- 身為使用者，在 **Add columns**
+  - 可以增加額外資料欄位 (從爬下資料的內文中，尋找房價/收入關鍵字擷取資料，然後增加 2 個新欄位房價及收入)
+
+- 身為使用者，在 **Save to CSV**
+  - 可以下載資料成 csv
