@@ -3,7 +3,7 @@
 Demo: https://colab.research.google.com/drive/18wupYerwiNJ77syxBv8ZZmkkj9pGjblW?usp=sharing
 <br>
 <br>
-原本是為了看/爬些房貸資料，結果就順手做了這個微專案。程式碼有參考這個[專案](https://github.com/leVirve/CrawlerTutorial)。
+原本是為了看/爬些房貸資料，結果就順手做了這個微專案。程式碼有部分參考此[專案](https://github.com/leVirve/CrawlerTutorial)。
 
 ## 專案功能
 - 身為使用者，在 **Variables** 
